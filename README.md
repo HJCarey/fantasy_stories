@@ -1,2 +1,2 @@
-# fantasy_stories
-Customized fantasy stories.
+# gpt_stories
+Customized stories written by GPT.
